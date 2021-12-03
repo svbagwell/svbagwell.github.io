@@ -1,4 +1,4 @@
-Shelby Bagwell
+# Shelby Bagwell
 
 👋  Heyyo, I'm Shelby Bagwell!
 
@@ -9,10 +9,10 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like hiking.
 
-Favorite quote
+## Favorite quote
 
 "Well ain't that just the way"
 
-Countries visited
+## Countries visited
 
 United States of America
