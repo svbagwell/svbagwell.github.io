@@ -11,7 +11,7 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 ## **Favorite quote**
 
->"Well ain't that just the way." -Gregory, Over the Garden Wall
+>"Well ain't that just the way." -Gregory, *Over the Garden Wall*
 
 ## **Countries visited**
 
