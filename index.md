@@ -13,10 +13,6 @@ Favorite quote
 
 "Well ain't that just the way"
 
-States visited
+Countries visited
 
-SC
-NC
-TX
-CA
-AL
+United States of America
